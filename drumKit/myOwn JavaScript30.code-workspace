@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"name": "myOwn JavaScript30",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "myOwn JavaScript30",
+		"liveServer.settings.port": 5502
+	}
+}
